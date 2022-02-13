@@ -10,7 +10,7 @@ export default function Tampil({ postData }) {
       <Title ket={postData.judul_manga} />
       <LayoutManga alamat={postData.preview}>
         <Link href="/">
-          <button class="bg-transparent text-black font-bold absolute ml-3 mt-2 px-2 rounded">
+          <button className="bg-transparent text-black font-bold absolute ml-3 mt-2 px-2 rounded">
             <img src="/back.png" className="w-5 float-left mr-1 mt-1" />
             <span className="text-lg">Back</span>
           </button>
@@ -41,9 +41,13 @@ export default function Tampil({ postData }) {
           <p className="text-justify">{postData.desk_manga}</p>
           <p className="font-bold mt-2">Preview Chapter : </p>
           <div className="columns-3">
-            {prew.map((li) => {
+            {prew.map((li, index) => {
               return (
-                <img src={li} className="w-full max-h-56 hover:max-h-screen" />
+                <img
+                  key={index}
+                  src={li}
+                  className="w-full max-h-56 hover:max-h-screen"
+                />
               );
             })}
           </div>

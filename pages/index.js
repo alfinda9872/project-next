@@ -17,9 +17,9 @@ export default function Home({ externalPostData }) {
           <div className="border-b-4 border-blue-600 w-3/6 mt-3"></div>
         </div>
         <Grid>
-          {externalPostData.map((data) => {
+          {externalPostData.map((data, index) => {
             return (
-              <div>
+              <div key={index}>
                 <p className="text-2xl font-bold py-1">{data.judul_manga}</p>
                 <img
                   src={data.gambar_manga}
