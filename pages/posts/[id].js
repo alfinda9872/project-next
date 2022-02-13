@@ -58,7 +58,8 @@ export default function Tampil({ postData }) {
 }
 
 async function getAllPostIds() {
-  const alamatApi = "http://localhost:3001/data_manga";
+  const alamatApi =
+    "https://my-json-server.typicode.com/alfinda9872/manga/data_manga";
   const response = await fetch(alamatApi);
   const allPosts = await response.json();
 
@@ -78,7 +79,7 @@ export async function getStaticPaths() {
 }
 
 async function getPostData(id) {
-  const alamatApi = `http://localhost:3001/data_manga?id=${id}`;
+  const alamatApi = `https://my-json-server.typicode.com/alfinda9872/manga/data_manga?id=${id}`;
   const response = await fetch(alamatApi);
   const postData = await response.json();
 
