@@ -40,7 +40,8 @@ export default function Home({ externalPostData }) {
 }
 
 export async function getStaticProps() {
-  const alamatApi = "http://localhost:3001/data_manga";
+  const alamatApi =
+    "https://my-json-server.typicode.com/alfinda9872/manga/data_manga";
   const response = await fetch(alamatApi);
   const data = await response.json();
 
