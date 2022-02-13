@@ -1,0 +1,48 @@
+{
+    "data_manga" : [
+    {
+        "id" : "1",
+        "gambar_manga" : "/naru.jpg",
+        "judul_manga" : "Naruto",
+        "alias" : "post-satu",
+        "link" : "/posts/post-satu",
+        "desk_manga" : "Beberapa saat sebelum kelahiran Naruto Uzumaki, iblis besar yang dikenal sebagai Kyuubi, Rubah Ekor Sembilan, menyerang Konohagakure, Desa Daun Tersembunyi, dan membuat kekacauan. Untuk mengakhiri amukan Kyuubi, pemimpin desa, Hokage Keempat, mengorbankan hidupnya dan menyegel monster mengerikan itu di dalam tubuh Naruto yang baru lahir. Sekarang, Naruto adalah seorang ninja hiperaktif dan kepala buku yang masih tinggal di Konohagakure. Dijauhi karena Kyuubi di dalam dirinya, Naruto berjuang untuk menemukan tempatnya di desa, sementara keinginannya yang membara untuk menjadi Hokage Konohagakure membawanya tidak hanya ke beberapa teman baru yang hebat, tetapi juga beberapa musuh yang mematikan.",
+        "volume" : "72",
+        "chapter" : "700",
+        "release" : "Sep 21, 1999 to Nov 10, 2014",
+        "author" : "Kishimoto, Masashi",
+        "preview" : "/previewNaru.jpg",
+        "list" : ["https://static1.mangayeh.com/manga/chapter/60191e3aa566934fb06d15a1/601978d8786df83d337d7c46/naruto_4_1.jpg", "https://lh3.googleusercontent.com/-s4EXt26Ug1Y/UE8aZarCVzI/AAAAAAAAEuw/tGDhwD524G0/s1200/01.jpg", "https://i.pinimg.com/originals/04/88/88/0488886ca85ff4b890af3e5bd4104e11.jpg"]
+    },
+    {
+        "id" : "2",
+        "gambar_manga" : "/OP.jpg",
+        "judul_manga" : "One Piece",
+        "alias" : "post-dua",
+        "link" : "/posts/post-dua",
+        "desk_manga" : "Gol D. Roger, seorang pria yang disebut sebagai Raja Bajak Laut, akan dieksekusi oleh Pemerintah Dunia. Tapi sebelum kematiannya, dia mengkonfirmasi keberadaan harta karun besar, One Piece, yang terletak di suatu tempat di dalam lautan luas yang dikenal sebagai Grand Line. Mengumumkan bahwa One Piece dapat diklaim oleh siapa saja yang cukup layak untuk mencapainya, Raja Bajak Laut dieksekusi dan Zaman Bajak Laut Agung dimulai. Dua puluh dua tahun kemudian, seorang pemuda bernama Monkey D. Luffy siap untuk memulai petualangannya sendiri, mencari One Piece dan berjuang untuk menjadi Raja Bajak Laut yang baru. Berbekal hanya topi jerami, perahu kecil, dan tubuh elastis, ia memulai perjalanan fantastis untuk mengumpulkan krunya sendiri dan kapal yang layak yang akan membawa mereka melintasi Grand Line untuk mengklaim status terbesar di laut lepas.",
+        "volume" : "Unknown",
+        "chapter" : "Unknown",
+        "release" : "Jul 22, 1997 to ?",
+        "author" : "Oda, Eiichiro",
+        "preview" : "/previewOne.jpg",
+        "list" : ["https://onepiecethenewworld.files.wordpress.com/2018/04/chapter-fools-011.png", "https://reead-narutoshippuden-manga.com/images/hjpXPThQByvvVLr9AnBF1613866921.jpg","https://cdn.readdetectiveconan.com/file/mangap/2/11026000/3.png"
+        ]
+    },
+    {
+        "id" : "3",
+        "gambar_manga" : "/Inu.jpg",
+        "judul_manga" : "Inuyasha",
+        "alias" : "post-tiga",
+        "link" : "/posts/post-tiga",
+        "desk_manga" : "Kehidupan biasa Kagome Higurashi tiba-tiba terhenti ketika iblis menyeretnya jauh ke dalam sumur, membawanya lima ratus tahun ke masa lalu. Di era ini, Kagome dengan cepat mempelajari dua hal: iblis berjalan di antara manusia dan dia tanpa sadar telah membawa benda berbahaya dari dunianya—bola seukuran marmer yang dikenal sebagai Permata Shikon. Bola yang tidak biasa ini membawa kekuatan yang luar biasa untuk setiap iblis yang memilikinya, dan Kagome adalah sasaran empuk bagi siapa pun yang cukup bertekad untuk mencurinya. Saat bertarung dengan iblis, upaya tergesa-gesa untuk menangkisnya menyebabkan Kagome secara tidak sengaja menghancurkan permata itu, mengirimkan potongan yang tak terhitung jumlahnya ke seluruh Jepang feodal. Dia segera mengetahui konsekuensi serius dari tindakannya ketika dia harus bekerja dengan setengah iblis Inuyasha untuk mengumpulkan semua keping permata sebelum jatuh ke tangan yang salah.",
+        "volume" : "56",
+        "chapter" : "558",
+        "release" : "Nov 13, 1996 to Jun 15, 2008",
+        "author" : "Takahashi, Rumiko",
+        "preview": "/previewInu.jpg",
+        "list" : ["https://1.bp.blogspot.com/-LA0GLav2FP0/XdmztOHEhOI/AAAAAAAAs1I/zkdzEgLMIC4MKJtAQ2BfJbKfocRCLBoqwCLcBGAsYHQ/s1600/18.jpeg", "https://i.pinimg.com/736x/b9/82/ac/b982ac642bc1870e835eef269714b8fd--inuyasha-books.jpg","https://i.redd.it/5ttj26na2hw71.jpg"
+        ]
+    }
+    ]
+}
